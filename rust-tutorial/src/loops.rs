@@ -21,7 +21,7 @@ pub fn run(){
             println!("{count}")
         }
         count += 1;
-    }
+    } 
 
     //for range
     for x in 0..100{
